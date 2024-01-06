@@ -1,2 +1,2 @@
 # Physical Strength & Fear-Related Personality
-EDA и прогнозирование физических показателей с помощью регрессии в датасете "Physical Strength &amp; Fear-Related Personality".
+Ссылка на соревнование: [Physical Strength & Fear-Related Personality](https://www.kaggle.com/datasets/thedevastator/physical-strength-correlation-with-fear-related?resource=download&select=Sample_3.csv)
